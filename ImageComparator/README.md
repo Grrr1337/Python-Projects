@@ -1,8 +1,9 @@
 
-# ImageComparator
+# Image Comparator
 
 
-ImageComparator is a Python project that serves as a wrapper for DHash, allowing users to compare images based on their perceptual similarity. This tool can identify similar images in a specified folder, copy them to a target folder, and rename them with a suffix or prefix indicating their Hamming distance.
+ImageComparator is a Python project that serves as a wrapper for DHash, allowing users to compare images based on their perceptual similarity. This tool can identify similar images in a specified folder, copy them to a target folder, and rename them with a suffix or prefix indicating their Hamming distance. 
+The purpose (simply explained) is to find an image needle inside of a directory haystack.
 
 
 ## Installation
@@ -10,7 +11,7 @@ ImageComparator is a Python project that serves as a wrapper for DHash, allowing
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/ImageComparator.git
+   git clone https://github.com/Grrr1337/Python-Projects.git
    ```
     ```bash
     cd ImageComparator
