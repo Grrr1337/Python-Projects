@@ -2,7 +2,8 @@
 # Background Remover
 
 
-Background Remover is a Python project that utilizes the 'rembg' library, allowing users to remove the background from a specified folder, which contains multiple images and outputs them into an 'output' folder with their backgrounds removed.
+The Background Remover is a Python project that leverages the 'rembg' library. It enables users to eliminate backgrounds from multiple images within a specified folder. The processed images are then saved in an 'output' folder, resulting in images with removed backgrounds.
+The sample input/output can be checked in the 'source_images' and 'out_images' folders.
 
 
 ## Installation
