@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="author" content="Vladimir Balabanov">
+    <meta name="description" content="Sample products list">
+    <meta name="keywords" content="Clothes Shoes Cars Books">
+    <title>Products list</title>
+    <link rel="stylesheet" type="text/css" href="/static/sample_webpage/css/styles.css">
+    <link rel="icon" type="image/x-icon" href="/static/favicon.ico">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Products</h1>
+        <p>This webpage provides a catalogue about the sample products below.</p>
+
+        <!-- <h2>Sample JavaScript</h2>
+        <button id="myButton">Click me</button>
+        <h2>Sample Image</h2>
+        <img src="/static/sample_webpage/images/CPLPS.png" alt="My Image Description"> -->
+
+        <h2>Available products:</h2>
+        <div id="productsContainer"></div>
+
+        <!-- <script type="module" src="/static/sample_webpage/js/productsList.js"></script>
+        <script type="module">
+            // Import and call the displayProducts function from the module
+            import { displayProducts } from '/static/sample_webpage/js/productsList.js';
+            displayProducts();
+        </script> -->
+
+        <!-- type="module" doesn't work -->
+        <script type="text/javascript" src="/static/sample_webpage/js/productsList.js"></script>
+        <script type="text/javascript" src="/static/sample_webpage/js/script.js"></script>
+    </div>
+</body>
+
+</html>
