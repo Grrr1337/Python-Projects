@@ -4,8 +4,8 @@ This is a __template project__ for building a RESTful API using the FastAPI fram
 
 ## Table of Contents
 
-- [Project Structure](#projectstructure)
-- [API Endpoints](#apiendpoints)
+- [Project Structure](#project-structure)
+- [API Endpoints](#api-endpoints)
 - [Installation](#installation)
 - [Run](#run)
 - [Usage](#usage)
@@ -48,7 +48,7 @@ Customize the templates in index.html based on your project requirements.
 The static directory inside the templates folder is meant for serving static assets (CSS, JavaScript, images, etc.).
 You can add your static assets to this folder.
 
-### API Endpoints
+## API Endpoints
 ```
 • GET /api/tasks: Get a list of tasks.
 • POST /api/tasks: Create a new task.
