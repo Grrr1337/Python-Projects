@@ -1,0 +1,6 @@
+.vscode
+.venv
+build
+dist
+old_codes
+__pycache__
