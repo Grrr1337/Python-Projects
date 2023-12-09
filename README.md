@@ -50,3 +50,7 @@ Feel free to clone or fork this repository to leverage the included projects and
 ```bash
 git clone https://github.com/Grrr1337/Python-Projects.git
 ```
+
+## License
+This repository is licensed under the MIT License, allowing you to use and modify the content as needed.
+See the [LICENSE](LICENSE) file for details.
