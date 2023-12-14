@@ -2,6 +2,11 @@
 
 This is a sample server project, that has a purpose to be used as a template for web development.
 
+## Demo
+
+![REST FastAPI Demo](REST%20FastAPI%20Demo.gif)
+
+
 ## Table of Contents
 
 - [Installation](#installation)
