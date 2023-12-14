@@ -6,6 +6,10 @@ Discover communication between different processes through pipes using Python ex
 
 The purposes of this project are explorational, so it may not have any direct practical application.
 
+## Demo
+
+![Process Communication Demo](Process%20Communication%20Demo.gif)
+
 ## Table of Contents
 
 - [Installation](#installation)
