@@ -2,6 +2,10 @@
 
 This is a simple client-server chat application implemented in Python using **sockets**. The server listens for incoming connections, and clients can connect to the server to exchange messages.
 
+## Demo
+Here is a demo where I use 4 separate terminal windows - the 1st one is running the server and the rest are the clients connected to it in order to chat together.
+
+![Simple Chat App Demo](Simple%20Chat%20App%20Demo.gif)
 ## Usage
 
 1. Run the server (`server.py`) to start listening for incoming connections.
