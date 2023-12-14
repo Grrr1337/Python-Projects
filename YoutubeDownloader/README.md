@@ -4,7 +4,10 @@
 ## Overview
 **YouTube Downloader** is a simple Python application built with the [pytube](https://github.com/pytube/pytube) library and [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) framework. It allows users to download [YouTube](https://youtube.com) videos by providing a video link.
 
-![Application Screenshot](SS.png)
+## Demo
+
+![Youtube Downloader Demo](Youtube%20Downloader%20Demo.gif)
+
  
 ## Features
 - Download YouTube videos in high resolution.
